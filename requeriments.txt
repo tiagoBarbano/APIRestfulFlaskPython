@@ -1,0 +1,5 @@
+Flask==2.2.3
+Flask-PyMongo==2.3.0
+requests==2.28.2
+python-logstash-async==2.5.0
+xmltodict
